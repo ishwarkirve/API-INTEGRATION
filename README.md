@@ -22,3 +22,8 @@ Overview
 APIs (Application Programming Interfaces) are integral to modern web applications, serving as the backbone for data exchange between the client and server. This project focuses on creating a fully functional web page that interacts with APIs using industry-standard protocols like REST (Representational State Transfer) or GraphQL.
 
 The web page is designed to send requests to an API, handle the responses effectively, and present the data in a user-friendly manner. Additionally, it includes provisions for handling authentication, error management, and configuration of API endpoints, making it a versatile starting point for various projects.
+
+**OUTPUT** :
+
+![Screenshot 2025-01-03 133709](https://github.com/user-attachments/assets/62132856-1187-4bb9-a1e6-48eb9dfe5f95)
+![Screenshot 2025-01-03 133726](https://github.com/user-attachments/assets/57ecbd11-8ab4-4afb-be6c-ed7c1619c463)
