@@ -30,4 +30,5 @@ The web page is designed to send requests to an API, handle the responses effect
 ![Screenshot 2025-01-03 133709](https://github.com/user-attachments/assets/62132856-1187-4bb9-a1e6-48eb9dfe5f95)
 
 **AFTER INPUT** :
+
 ![Screenshot 2025-01-03 133726](https://github.com/user-attachments/assets/57ecbd11-8ab4-4afb-be6c-ed7c1619c463)
